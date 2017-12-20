@@ -9,10 +9,10 @@ table#head{
 	border-collapse: collapse;
 	border-spacing: 0;	
 }
-tr#head{
+tr.head{
 	background-color:#0080FF;
 }
-tr#link{
+tr.link{
 	background-color:#050505;
 }
 
