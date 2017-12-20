@@ -7,6 +7,7 @@
 }
 
 body{
+	margin:0 auto;
 	width:75%;
 	text-align:center;
 	font-size: large;
@@ -24,7 +25,8 @@ h1{
 @media only screen and (max-device-width: 720px) {
 	
 * {
-	margin:0; padding:0;
+	margin:0;
+	padding:0;
 	line-height:1.5;
 	background-color:#666666;
 } 
