@@ -6,6 +6,8 @@
 	background-color:#666666;
 }
 
+@media only screen and (min-device-width: 641px) {
+
 body{
 	margin:0 auto;
 	width:60%;
@@ -20,7 +22,7 @@ h1{
 	background-color:#01A9DB;
 	text-align:center;	
 }
-
+}
 
 @media only screen and (max-device-width: 640px) {
 
