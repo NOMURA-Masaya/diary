@@ -25,6 +25,7 @@ h1{
 @media only screen and (max-device-width: 640px) {
 
 body{
+	width:100%;
 	text-align:center;
 	font-size: large;
 	color:#ffffff;
