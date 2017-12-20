@@ -3,7 +3,7 @@
 * {
 	margin:0; padding:0;
 	line-height:1.5;
-	background-color:#999999;
+	background-color:#666666;
 } 
 
 body{
@@ -13,9 +13,8 @@ body{
 }
 
 h1{
-	padding:10;
+	padding:20;
 	width:100%;
 	background-color:#01A9DB;
-	text-align:center;
-	
+	text-align:center;	
 }
