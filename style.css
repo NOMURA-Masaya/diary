@@ -18,7 +18,8 @@ tr.head{
 	background-color:#0080FF;
 }
 td.head{
-	font-size:xx-large;
+	padding:10px;
+	font-size:72px;
 }
 td.link{
 	text-align:center;
