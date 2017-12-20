@@ -9,19 +9,24 @@ main{
 	color:#ffffff;
 	background-color:#666666;
 }
-
 table#head{
 	width:100%;
 	border-collapse: collapse;
 	border-spacing: 0;	
 }
-
 tr.head{
 	background-color:#0080FF;
 }
-
 tr.link{
+	height:35px;
 	background-color:#303030;
+}
+div#foot{
+	height:35px;
+	padding:5;
+	width:100%;
+	background-color:#0080FF;
+	text-align:center;	
 }
 
 
@@ -31,47 +36,18 @@ main{
 	margin:0 auto;
 	width:60%;
 }
-
 tr.head{
 	height:150px;
+}		
 }
-	
-tr.link{
-	height:35px;
-}	
-	
-	
-div{
-	height:35px;
-	padding:5;
-	width:100%;
-	background-color:#0080FF;
-	text-align:center;	
-}	
-	
-	
-}
+
 
 @media only screen and (max-device-width: 640px) {
 
 main{
 	width:100%;
-}
-	
+}	
 tr.head{
 	height:100px;
-}
-	
-tr.link{
-	height:35px;
-}
-
-div{
-	height:35px;
-	padding:5;
-	width:100%;
-	background-color:#0080FF;
-	text-align:center;	
-}
-	
+}	
 }
