@@ -20,9 +20,18 @@ main{
 h1{
 	padding:20;
 	width:100%;
-	background-color:#01A9DB;
+	background-color:#00BFFF;
 	text-align:center;	
 }
+h2{
+	padding:20;
+	width:100%;
+	background-color:#2ECCFA;
+	text-align:center;	
+}	
+	
+	
+	
 }
 
 @media only screen and (max-device-width: 640px) {
@@ -38,7 +47,13 @@ main{
 h1{
 	padding:20;
 	width:100%;
-	background-color:#01A9DB;
+	background-color:#00BFFF;
+	text-align:center;	
+}
+h2{
+	padding:20;
+	width:100%;
+	background-color:#2ECCFA;
 	text-align:center;	
 }
 	
