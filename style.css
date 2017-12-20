@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 body{
-	background-color:#080808;
+	background-color:#888888;
 }
 
 table#head{
@@ -14,7 +14,7 @@ tr.head{
 	height: 150px;
 }
 tr.link{
-	background-color:#2a2a2a;
+	background-color:#202020;
 }
 
 
