@@ -2,12 +2,12 @@
 
 body{
 	background-color:#404040;
-	border:0px;
 }
 
 table#head{
 	width:100%;
-	text-align: center;
+	border-collapse: collapse;
+	border-spacing: 0;	
 }
 
 
