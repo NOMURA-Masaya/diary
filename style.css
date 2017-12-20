@@ -1,14 +1,13 @@
 @charset "utf-8";
 
 body{
-	background-color:#888888;
+	background-color:#dddddd;
 }
-
 main{
 	text-align:center;
 	font-size: large;
 	color:#ffffff;
-	background-color:#404040;
+	background-color:#888888;
 }
 
 table#head{
@@ -22,7 +21,7 @@ tr.head{
 }
 
 tr.link{
-	background-color:#151515;
+	background-color:#303030;
 }
 
 
