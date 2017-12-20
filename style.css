@@ -5,7 +5,7 @@ body{
 	font-family:sans-serif,monospace;
 }
 main{
-	text-align:left;
+	text-align:center;
 	font-size:large;
 	color:#ffffff;
 	background-color:#666666;
@@ -19,11 +19,9 @@ tr.head{
 	background-color:#0080FF;
 }
 td.head{
+	text-align:left;
 	padding:20px;
 	font-size:72px;
-}
-td.link{
-	text-align:center;
 }
 tr.link{
 	height:35px;
@@ -33,8 +31,7 @@ div#foot{
 	height:35px;
 	padding:5;
 	width:100%;
-	background-color:#303030;
-	text-align:center;	
+	background-color:#303030;	
 }
 
 
