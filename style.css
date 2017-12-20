@@ -18,3 +18,32 @@ h1{
 	background-color:#01A9DB;
 	text-align:center;	
 }
+
+
+
+
+
+@media only screen and (max-device-width: 720px) {
+* {
+	margin:0; padding:0;
+	line-height:1.5;
+	background-color:#666666;
+} 
+
+body{
+	text-align:center;
+	font-size: large;
+	color:#ffffff;
+}
+
+h1{
+	padding:20;
+	width:100%;
+	background-color:#01A9DB;
+	text-align:center;	
+}
+
+	
+	
+	
+}
