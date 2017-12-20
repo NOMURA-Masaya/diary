@@ -4,18 +4,22 @@ body{
 	background-color:#bbbbbb;
 }
 main{
-	text-align:center;
-	font-size: large;
+	text-align:left;
+	font-size:large;
 	color:#ffffff;
 	background-color:#666666;
 }
 table#head{
 	width:100%;
-	border-collapse: collapse;
-	border-spacing: 0;	
+	border-collapse:collapse;
+	border-spacing:0;	
 }
 tr.head{
 	background-color:#0080FF;
+}
+td.head{
+	text-align:left;
+	font-size:xx-large;
 }
 tr.link{
 	height:35px;
