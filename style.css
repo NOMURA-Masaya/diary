@@ -12,6 +12,7 @@ main{
 }
 table#max{
 	width:100%;
+	table-layout:fixed;
 	border-collapse:collapse;
 	border-spacing:0;	
 }
@@ -43,9 +44,6 @@ td.head{
 tr.link{
 	height:35px;
 	background-color:#303030;
-}
-td.link{
-	width="50%";
 }
 td.profile{
 	text-align:left;
