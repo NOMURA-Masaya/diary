@@ -34,6 +34,7 @@ table#phone_contents{
 }
 table#profile{
 	/*padding:0px 10px;*/
+	width:100%;
 	margin-left:auto;
 	margin-right:auto;
 	border-collapse:collapse;
