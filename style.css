@@ -10,6 +10,12 @@ main{
 	color:#ffffff;
 	background-color:#666666;
 }
+
+a:link { color: #ffffff; }
+a:visited { color: #ffffff; }
+a:hover { color: #ffffff; }
+a:active { color: #ffffff; }
+
 table#max{
 	width:100%;
 	table-layout:fixed;
