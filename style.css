@@ -34,6 +34,9 @@ td.head{
 	font-size:72px;
 	font-weight: bolder;
 }
+td.prof{
+	text-align:left;
+}
 tr.link{
 	height:35px;
 	background-color:#303030;
@@ -60,12 +63,6 @@ main{
 }
 table#phone_contents{
 	display: none;	
-}
-table#profile{
-	width:100%;
-	border-collapse:collapse;
-	border-spacing:0;
-	text-align:left;
 }
 tr.head{
 	height:150px;
