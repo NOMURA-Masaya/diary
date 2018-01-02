@@ -34,7 +34,8 @@ td.head{
 	font-size:72px;
 	font-weight: bolder;
 }
-td.prof{
+td.profile{
+	width="100%"
 	text-align:left;
 }
 tr.link{
