@@ -64,6 +64,10 @@ main{
 table#phone_contents{
 	display: none;	
 }
+table#profile{
+	border-collapse:collapse;
+	border-spacing:0;	
+}
 tr.head{
 	height:150px;
 }
