@@ -22,6 +22,7 @@ table#pc_contents{
 }
 table#phone_contents{
 	width:100%;
+	text-align:center;
 	border-collapse:collapse;
 	border-spacing:0;	
 }
