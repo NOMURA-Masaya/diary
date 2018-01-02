@@ -25,6 +25,12 @@ table#phone_contents{
 	border-collapse:collapse;
 	border-spacing:0;	
 }
+table#profile{
+	margin-left:auto;
+	margin-right:auto;
+	border-collapse:collapse;
+	border-spacing:0;	
+}
 tr.head{
 	background-color:#0080FF;
 }
@@ -66,12 +72,6 @@ main{
 }
 table#phone_contents{
 	display: none;	
-}
-table#profile{
-	margin-left:auto;
-	margin-right:auto;
-	border-collapse:collapse;
-	border-spacing:0;	
 }
 tr.head{
 	height:150px;
