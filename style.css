@@ -66,6 +66,13 @@ div#foot{
 	vertical-align:middle;
 	background-color:#303030;	
 }
+table#foot{
+	height:35px;
+	width:100%;
+	border-collapse:collapse;
+	border-spacing:0;
+	background-color:#303030;
+}
 
 
 @media only screen and (min-device-width: 641px) {
