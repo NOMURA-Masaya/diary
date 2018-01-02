@@ -47,6 +47,9 @@ main{
 	margin:0 auto;
 	width:60%;
 }
+table#phpne_contents{
+	display: none;	
+}
 tr.head{
 	height:150px;
 }
