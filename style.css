@@ -38,6 +38,11 @@ tr.link{
 	height:35px;
 	background-color:#303030;
 }
+p#name{
+	color:#DF7401	
+}
+
+
 div#foot{
 	height:35px;
 	padding:5;
