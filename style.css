@@ -33,6 +33,7 @@ table#phone_contents{
 	border-spacing:0;	
 }
 table#profile{
+	padding:0px 10px;
 	margin-left:auto;
 	margin-right:auto;
 	border-collapse:collapse;
