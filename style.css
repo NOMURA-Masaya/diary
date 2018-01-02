@@ -64,6 +64,7 @@ div#foot{
 	height:35px;
 	padding:5;
 	width:100%;
+	vertical-align:middle;
 	background-color:#303030;	
 }
 
