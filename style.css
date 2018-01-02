@@ -20,6 +20,11 @@ table#pc_contents{
 	border-collapse:collapse;
 	border-spacing:0;	
 }
+table#phone_contents{
+	width:100%;
+	border-collapse:collapse;
+	border-spacing:0;	
+}
 tr.head{
 	background-color:#0080FF;
 }
