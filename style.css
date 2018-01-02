@@ -38,6 +38,9 @@ tr.link{
 	height:35px;
 	background-color:#303030;
 }
+td.link{
+	width="50%"
+}
 td.profile{
 	text-align:left;
 }
