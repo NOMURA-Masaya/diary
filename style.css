@@ -28,15 +28,15 @@ table#phone_contents{
 tr.head{
 	background-color:#0080FF;
 }
+tr.profile{
+	width="100%"
+	text-align:left;
+}
 td.head{
 	padding:20px;
 	text-align:left;
 	font-size:72px;
 	font-weight: bolder;
-}
-td.profile{
-	width="100%"
-	text-align:left;
 }
 tr.link{
 	height:35px;
