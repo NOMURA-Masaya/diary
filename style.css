@@ -58,7 +58,7 @@ tr.link{
 td.profile{
 	text-align:left;
 }
-p#name{
+td.lavel{
 	color:#ff8000;
 	font-weight:bold;
 }
