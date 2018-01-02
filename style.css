@@ -15,6 +15,11 @@ table#max{
 	border-collapse:collapse;
 	border-spacing:0;	
 }
+table#pc_content{
+	width:100%;
+	border-collapse:collapse;
+	border-spacing:0;	
+}
 tr.head{
 	background-color:#0080FF;
 }
@@ -44,7 +49,8 @@ main{
 }
 tr.head{
 	height:150px;
-}		
+}
+	
 }
 
 
@@ -52,8 +58,12 @@ tr.head{
 
 main{
 	width:100%;
-}	
+}
+table#pc_content{
+	display: none;	
+}
 tr.head{
 	height:100px;
-}	
+}
+	
 }
