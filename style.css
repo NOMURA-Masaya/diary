@@ -1,20 +1,15 @@
 @charset "utf-8";
 
 body{
-	background-color:#bbbbbb;
+	background-color:#ffffff;
 	font-family:sans-serif,monospace;
 }
 main{
 	text-align:center;
 	font-size:large;
-	color:#ffffff;
-	background-color:#666666;
+	color:#000000;
+	background-color:#ffffff;
 }
-
-a:link { color: #ffffff; }
-a:visited { color: #ffffff; }
-a:hover { color: #ffffff; }
-a:active { color: #ff8000; }
 
 table#max{
 	width:100%;
@@ -43,7 +38,7 @@ table#profile{
 	border-spacing:0;	
 }
 tr.head{
-	background-color:#0080FF;
+	background-color:#000000;
 }
 td.head{
 	padding:20px;
