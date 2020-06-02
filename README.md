@@ -1,5 +1,5 @@
 # URL  
-https://nomura-masaya.github.io/diary/home.html  
+https://nomura-masaya.github.io/diary/weekend.html  
   
 ## author information  
 NOMURA Masaya  
