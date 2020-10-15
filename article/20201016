@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang=“ja”>
+  <head>
+    <meta charset=“UFT-8”>
+    <title>初のお菓子</title>
+  </head>
+  <body>
+    <main>
+      <div align="center">
+        <img border="0" src="../images/20201016.JPG" width="50%" height="50%">
+      </div>
+      <br>
+      <table align="center">
+        <tr>
+          <td>スイートポテトとスイートパンプキン</td>
+        </tr>
+        <tr>
+          <td>初めてにしては良くできた…はず。</td>
+        </tr>
+      </table>
+    </main>
+  </body>
+</html>
