@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang=“ja”>
+  <head>
+    <meta charset=“UFT-8”>
+    <title>ハイブリッド鯛めし</title>
+  </head>
+  <body>
+    <main>
+      <div align="center">
+        <img border="0" src="../images/20210108.JPG" width="50%" height="50%"/>
+      </div>
+      <br>
+      <table align="center">
+        <tr>
+          <td>松山鯛めしと宇和島鯛めしを融合させた鯛めし。</td>
+        </tr>
+        <tr>
+          <td>ご飯を鯛の出汁で炊いているので反則級においしい。</td>
+        </tr>
+      </table>
+    </main>
+  </body>
+</html>
